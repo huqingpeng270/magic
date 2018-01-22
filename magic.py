@@ -133,3 +133,5 @@ if __name__ == "__main__":
         b.append(Block(i))
     m = Magic(b)
     m.rotate(1, 1)
+    m.rotate(2, 1)
+
